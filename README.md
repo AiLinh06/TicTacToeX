@@ -12,6 +12,13 @@ Standard I/O (cin/cout)
 Terminal/Console
 
 Run game:
-
 ./tictactoe
 
+
+├── tictactoex.cpp      # Main game logic
+├── tictactoex.h             # (Optional) Header file with declarations
+├── README.md          # Project documentation
+
+Author
+Ai Linh Ho
+GitHub: AiLinh06
